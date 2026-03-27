@@ -30,8 +30,8 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    1. Stawka podatku od budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego wynosi:
       1. 0,02% wartości dla budynku mieszkalnego jednorodzinnego i lokalu mieszkalnego, który jest pierwszym albo drugim budynkiem mieszkalnym jednorodzinnym lub lokalem mieszkalnym nabytym przez podatnika;
       2. w przypadku budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego stanowiącego trzeci albo kolejny budynek mieszkalny jednorodzinny lub lokal mieszkalny nabyty przez podatnika:
-         1. 0,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
-         2. w każdym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
+         1. 1,5% wartości w pierwszym roku od dnia wejścia w życie przepisów wprowadzających podatek od wartości nieruchomości,
+         2. w drugim i kolejnym kolejnym roku stawka podatku ulega zwiększeniu o 0,1 punktu procentowego do maksymalnie 1,5% wartości.
    2. Przy ustalaniu stawki podatku, o której mowa w ust. 1, bierze się pod uwagę wszystkie budynki mieszkalne jednorodzinne i lokale mieszkalne na terenie Rzeczypospolitej Polskiej, których właścicielem lub współwłaścicielem jest podatnik.
    3. Stawkę, o której mowa w art. 5a ust. 1 pkt 2 oblicza się od trzeciego i kolejnego przedmiotu opodatkowania liczonego zgodnie z kolejnością ustaloną według dnia nabycia.
    4. W przypadku gdy podatnik, będący właścicielem co najmniej jednego budynku mieszkalnego jednorodzinnego lub lokalu mieszkalnego, nabywa w tym samym dniu więcej niż jeden taki budynek lub lokal, dla ustalenia stawki podatku określonej w ust. 1 pkt 1 za pierwszy przyjmuje się budynek mieszkalny jednorodzinny lub lokal mieszkalny o najniższej wartości.
@@ -40,9 +40,7 @@ W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. z
    7. Niezależnie od liczby budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych stanowiących przedmiot opodatkowania danego podatnika, stawce podatku, o której mowa w ust. 1 pkt 1, podlegają:
       1. budynki mieszkalne jednorodzinne i lokale mieszkalne będące własnością państwowej osoby prawnej, spółdzielni mieszkaniowej, towarzystwa budownictwa społecznego, społecznej inicjatywy mieszkaniowej lub społecznej agencji najmu;
       2. budynki mieszkalne jednorodzinne i lokale mieszkalne dzierżawione przez społeczną agencję najmu lub będące mieszkaniami treningowymi lub wspomaganymi;
-      3. budynki mieszkalne jednorodzinne i lokale mieszkalne znajdujące się w budynkach, w których są obiekty budowlane uznane za budowle ochronne na podstawie przepisów ustawy z dnia 5 grudnia 2024 r. o ochronie ludności i obronie cywilnej (Dz. U. z 2024 r. poz. 1907 oraz z 2025 r. poz. 1705);
-      4. budynki mieszkalne jednorodzinne, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków (Dz. U. z 2024 r. poz. 101) wynosi 70 lub mniej;
-      5. lokale mieszkalne znajdujące się w budynkach mieszkalnych wielorodzinnych, w których wartość wskaźnika rocznego zapotrzebowania na nieodnawialną energię pierwotną EP [kWh/(m²·rok)], obliczona według przepisów wydanych na podstawie art. 15 ustawy z dnia 29 sierpnia 2014 r. o charakterystyce energetycznej budynków wynosi 65 lub mniej.
+
 
    **Art. 5b.** Rada gminy może, w drodze uchwały, zmniejszyć lub zwiększyć podstawę opodatkowania budynków mieszkalnych jednorodzinnych lub lokali mieszkalnych na terenie gminy lub jej części, poprzez ustalenie współczynników korygujących w zakresie od 0,2 do 2 podstawy opodatkowania, w tym ze względu na:
 
